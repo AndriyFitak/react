@@ -1,7 +1,7 @@
+import './button.css'
 const Button = (props) => {
-    
     return(
-        <button>{props.text}</button>
+        <button className="btn">{props.text}</button>
     )
 }
 export default Button

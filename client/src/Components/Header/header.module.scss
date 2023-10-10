@@ -1,0 +1,21 @@
+.header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+}
+.logotext{
+    color: white
+}
+.nav{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    &_element{
+        font-size: 18px;
+        color: white;
+    }
+}
