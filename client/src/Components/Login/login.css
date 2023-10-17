@@ -117,3 +117,133 @@ color: #FFFFFF;
 .password:hover{
     box-shadow: 6px 6px  6px rgb(101, 101, 101);
 }
+.accepttext{
+    position: absolute;
+width: 150px;
+height: 14px;
+left: 755px;
+top: 379px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 14px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.forgotpassword{
+    position: absolute;
+width: 120px;
+height: 14px;
+left: 768px;
+top: 395px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 14px;
+/* identical to box height */
+
+text-align: center;
+text-decoration-line: underline;
+
+color: #153416;
+}
+
+.enterDiv{
+    position: absolute;
+width: 340px;
+height: 44px;
+left: 670px;
+top: 445px;
+
+background: #153416;
+border-radius: 30px;
+}
+
+.entertext{
+    position: absolute;
+width: 34px;
+height: 14px;
+left: 150px;
+top: 15px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 17px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.enterDiv:hover{
+    box-shadow: 6px 6px  6px rgb(101, 101, 101);
+}
+
+.pacount{
+    position: absolute;
+width: 150px;
+height: 14px;
+left: 760px;
+top: 492px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 15px;
+/* identical to box height */
+
+text-align: center;
+
+color: #153416;
+}
+
+.aacount{
+    position: absolute;
+width: 117px;
+height: 14px;
+left: 779px;
+top: 510px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height */
+
+text-align: center;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+}
+
+.pacount2{
+    position: absolute;
+width: 120px;
+height: 14px;
+left: 777px;
+top: 536px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 15px;
+/* identical to box height */
+
+text-align: center;
+
+color: #153416;
+}
