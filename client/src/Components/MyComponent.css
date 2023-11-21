@@ -1,0 +1,29 @@
+.image-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    height: 50vh; /* Висота вікна перегляду */
+  }
+  
+  .image {
+    width: 400px; 
+    height: 400px; 
+    object-fit: cover; 
+    margin: 10px; 
+    border-radius: 10px;
+  }
+  .text-names {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left:-65px;
+  }
+  .chiken-text{
+    margin-left: -40px;
+  }
+  .image-text {
+    margin-top: 8px; 
+    font-weight: bold; 
+    font-size: 25px;
+   
+  }
